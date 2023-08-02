@@ -37,7 +37,7 @@
 
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact"/><br><br>
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=DokBak&show_icons=true">
 -->
