@@ -36,8 +36,8 @@
 
 
 <div align="center">
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact)](https://github.com/DokBak/github-readme-stats)
 
 </div>
 <br>
