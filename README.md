@@ -37,11 +37,10 @@
 
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact"/><br><br>
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=DokBak&show_icons=true">
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact"/>
+
 </div>
+<br>
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&section=footer&color=auto&text=Thank%20you&fontSize=30&height=100)
 
