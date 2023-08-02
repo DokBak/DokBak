@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&layout=compact)](https://github.com/DokBak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DokBak&langs_count=8)](https://github.com/DokBak/github-readme-stats)
 
 </div>
 <br>
