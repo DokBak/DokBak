@@ -4,6 +4,7 @@
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc2e9bc6-fd8a-40c3-b0cc-d3aecda8a957" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
