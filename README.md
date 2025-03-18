@@ -1,7 +1,10 @@
 ### Hello, This is DokBak GitHub 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello!&fontAlignY=30&fontSize=40&height=200&desc=This%20is%20DokBak%20gitHub&descAlignY=55)
 
-
+<div align=center>
+	## 🏆 AWS Certification Badges
+	[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc2e9bc6-fd8a-40c3-b0cc-d3aecda8a957/public_url)
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc2e9bc6-fd8a-40c3-b0cc-d3aecda8a957" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
