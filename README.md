@@ -4,7 +4,7 @@
 <div align=center>
     <h2>🏆 AWS Certification Badges</h2>
     <a href="https://www.credly.com/badges/cc2e9bc6-fd8a-40c3-b0cc-d3aecda8a957/public_url" target="_blank">
-        <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge">
+        <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge">
     </a>
 </div>
 <div align=center>
